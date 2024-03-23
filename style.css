@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    width: 100%;
+    height: 100vh;
+    color: #fff;
+}
+.container{
+    background: #1f1f1f;
+    text-align: center;
+}
+.container h1{
+    font-weight: 600;
+    padding: 1rem;
+    color: cyan;
+    transition: all 0.25s ease-in-out;
+}
+.container h1:hover{
+    font-size: 30px;
+    background: rgba(52, 51, 51, 0.647);    
+    color: rgb(123, 239, 239);
+}
+.editor{
+    background: black;
+    text-align: start;
+    display: flex;
+    padding: 1rem;
+}
+.left, .right{
+    flex-basis: 50%;
+    padding: 30px;
+}
+label{
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+}
+label  i{
+    padding-right: 5px;
+    margin: 10px;
+}
+textarea{
+    width: 100%;
+    height: 300px;
+    background: #1f1f1f;
+    color: #fff;
+    background-origin: 0;
+    outline: 0;
+    font-size: 18px;
+    padding: 10px 20px;
+    transition: all 0.25s ease-in-out;
+}
+textarea:hover{
+    background: rgba(65, 64, 64, 0.647)
+}
+iframe{
+    width: 100%;
+    height: 85%;
+    background: #fff;
+    margin-top: 10px;
+    border: 0;
+    outline: 0;
+}
+
+ 
