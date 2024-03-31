@@ -6,7 +6,7 @@ LiveCodeX is a web-based live code editor that allows users to write HTML, CSS, 
 
 Simultaneous editing of HTML, CSS, and JavaScript. Real-time output display. Syntax highlighting for HTML, CSS, and JavaScript. Easy-to-use interface.
 
-## Live Demo: [Click here](https://ritammaity55.github.io/LiveCodeX/)
+
 
 ## Live Demo: <a href="https://ritammaity55.github.io/LiveCodeX/" target="_blank">Click Here</a>
 
