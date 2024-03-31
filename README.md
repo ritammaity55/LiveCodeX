@@ -8,7 +8,7 @@ Simultaneous editing of HTML, CSS, and JavaScript. Real-time output display. Syn
 
 
 
-## Live Demo: <a href="https://ritammaity55.github.io/LiveCodeX/" target="_blank">Click Here</a>
+## Live Demo: [Click Me](https://ritammaity55.github.io/LiveCodeX/)
 
 
 
