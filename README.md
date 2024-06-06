@@ -12,8 +12,10 @@ Simultaneous editing of HTML, CSS, and JavaScript. Real-time output display. Syn
 
 
 
-## Installation Clone this repository: 
-git clone https://github.com/your-username/LiveCodeX.git Open index.html in your web browser. Open it using live server.
+## Clone this repository: 
+git clone https://github.com/your-username/LiveCodeX.git
+
+Open index.html in your web browser. Open it using live server.
 
 ## Usage
 
